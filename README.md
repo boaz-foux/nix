@@ -1,2 +1,2 @@
 # nix
-my local enviroment
+my local environment
